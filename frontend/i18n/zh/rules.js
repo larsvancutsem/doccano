@@ -29,7 +29,7 @@ export default {
   },
   uploadFileRules: {
     fileRequired: '请输入文件',
-    fileLessThan1MB: '文件大小必须小于 1 MB!'
+    fileLessThan1GB: '文件大小必须小于 1 GB!'
   },
   passwordRules: {
     passwordRequired: '请输入密码',
